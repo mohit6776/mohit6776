@@ -1,3 +1,4 @@
+![logo](https://github.com/mohit6776/mohit6776/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Mohit Gautam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
